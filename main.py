@@ -1,6 +1,7 @@
 from instapy import InstaPy
 from instapy import smart_run
-#import instapy
+#COMMENT THE BELOW PART TO MAKE IT WORK
+#====================================================#
 print('\n')
 print("[-] PROJECT TEMPORARILY CLOSED..../")
 print('\n')
@@ -17,6 +18,7 @@ else:
 
 exit()
 
+#====================================================#
 
 username_insta = str(input("[+] Enter Your Username: "))
 password_insta = str(input("[+] Enter Your Password: "))
