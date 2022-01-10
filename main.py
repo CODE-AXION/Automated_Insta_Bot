@@ -1,6 +1,6 @@
 from instapy import InstaPy
 from instapy import smart_run
-#COMMENT THE BELOW PART TO MAKE IT WORK
+#COMMENT OUT THE BELOW PART TO MAKE IT WORK
 #====================================================#
 print('\n')
 print("[-] PROJECT TEMPORARILY CLOSED..../")
